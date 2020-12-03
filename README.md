@@ -8,3 +8,6 @@
 * All thanks to Jonas Schmedtmann's for the nice API 
 * https://forkify-api.herokuapp.com/v2
 
+* # website is hosted you can try it
+* https://forkify-ahmedmohamed.netlify.app/
+
